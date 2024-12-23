@@ -5,3 +5,4 @@ Cette vidéo est principalement orientée sur le routage du PCB
 
 YouTube : https://youtu.be/tcZ4AbYXFHw
 
+Vous pouvez réaliser vous même cette télécommande, tous les fichiers nécessaires à sa fabrication sont disponibles par l'onglet CODE (n'oubliez pas
