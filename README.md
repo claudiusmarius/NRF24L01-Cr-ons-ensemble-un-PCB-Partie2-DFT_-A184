@@ -1,4 +1,4 @@
-# NRF24L01-Cr-ons-ensemble-un-PCB-Partie2-DFTA184
+# NRF24L01-Creons-ensemble-un-PCB-Partie2-DFTA184
 Suite de la vidéo DFT_#A181
 
 Cette vidéo est principalement orientée sur le routage du PCB
